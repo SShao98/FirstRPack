@@ -1,0 +1,17 @@
+Package: Shuman441
+Type: Package
+Title: data & function
+Version: 0.1.0
+Author: MAE
+Maintainer: Shuman Shao <sshao98@ucla.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    ggplot2,
+    utils
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
